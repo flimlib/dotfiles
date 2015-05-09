@@ -1,6 +1,9 @@
 [code/slim/curve-fitter]
 checkout = git clone git://github.com/slim-curve/curve-fitter
 
+[code/slim/dotfiles]
+checkout = git clone git://github.com/slim-curve/dotfiles
+
 [code/slim/slim-curve]
 checkout = git clone git://github.com/slim-curve/slim-curve
 
