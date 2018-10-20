@@ -14,6 +14,9 @@ checkout = git clone git://github.com/slim-curve/dotfiles
 [code/slim/slim-curve]
 checkout = git clone git://github.com/slim-curve/slim-curve
 
+[code/slim/slim-curve-ops]
+checkout = git clone git://github.com/slim-curve/slim-curve-ops
+
 [code/slim/slim-curve.github.io]
 checkout = git clone git://github.com/slim-curve/slim-curve.github.io
 
