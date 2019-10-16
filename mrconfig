@@ -1,27 +1,24 @@
-# mr configuration file for SLIM Curve projects
+# mr configuration file for FLIMLib projects
 
 # Install myrepos on macOS using Homebrew, or on Ubuntu using apt.
 
 # Reference this file from your toplevel ~/.mrconfig like this:
-# include = cat $CODE_BASE/slim/dotfiles/mrconfig 2> /dev/null || true
+# include = cat $CODE_BASE/flimlib/dotfiles/mrconfig 2> /dev/null || true
 
-[code/slim/curve-fitter]
-checkout = git clone git://github.com/slim-curve/curve-fitter
+[code/flimlib/dotfiles]
+checkout = git clone git://github.com/flimlib/dotfiles
 
-[code/slim/dotfiles]
-checkout = git clone git://github.com/slim-curve/dotfiles
+[code/flimlib/flimj-ops]
+checkout = git clone git://github.com/flimlib/flimj-ops
 
-[code/slim/slim-curve]
-checkout = git clone git://github.com/slim-curve/slim-curve
+[code/flimlib/flimj-ui]
+checkout = git clone git://github.com/flimlib/flimj-ui
 
-[code/slim/slim-curve-ops]
-checkout = git clone git://github.com/slim-curve/slim-curve-ops
+[code/flimlib/flimlib]
+checkout = git clone git://github.com/flimlib/flimlib
 
-[code/slim/slim-curve.github.io]
-checkout = git clone git://github.com/slim-curve/slim-curve.github.io
+[code/flimlib/flimlib-javadoc]
+checkout = git clone git://github.com/flimlib/flimlib-javadoc
 
-[code/slim/slim-javadoc]
-checkout = git clone git://github.com/slim-curve/slim-javadoc
-
-[code/slim/slim-plugin]
-checkout = git clone git://github.com/slim-curve/slim-plugin
+[code/flimlib/flimlib.github.io]
+checkout = git clone git://github.com/flimlib/flimlib.github.io

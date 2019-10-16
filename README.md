@@ -1,4 +1,4 @@
-These configuration files provide support for SLIM Curve software
+These configuration files provide support for FLIMLib software
 development from the command line.
 
 
