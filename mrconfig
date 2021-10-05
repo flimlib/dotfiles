@@ -17,8 +17,8 @@ checkout = git clone git://github.com/flimlib/flimj-ui
 [code/flimlib/flimlib]
 checkout = git clone git://github.com/flimlib/flimlib
 
-[code/flimlib/flimlib-javadoc]
-checkout = git clone git://github.com/flimlib/flimlib-javadoc
-
 [code/flimlib/flimlib.github.io]
 checkout = git clone git://github.com/flimlib/flimlib.github.io
+
+[code/javadoc/flimlib-javadoc]
+checkout = git clone git://github.com/flimlib/flimlib-javadoc
